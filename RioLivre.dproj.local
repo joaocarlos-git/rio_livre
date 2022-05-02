@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/08 22:12:21.000.653,=C:\Users\Daniela\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/03 22:06:32.000.623,=C:\Users\Daniela\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/03 22:10:55.000.518,C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\UnitLogin.pas=C:\Users\Daniela\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/03/03 22:10:55.000.518,C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\UnitLogin.fmx=C:\Users\Daniela\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/03/03 22:11:15.000.101,C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\RioLivre.dproj=C:\Users\Daniela\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/03/05 12:25:59.000.929,=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/03/05 12:27:14.000.400,C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.pas=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\UnitPrincipal.pas</Transaction>
+    <Transaction>2022/03/05 12:27:14.000.400,C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.fmx=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\UnitPrincipal.fmx</Transaction>
+    <Transaction>2022/03/25 20:42:59.000.114,=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/03/25 20:45:05.000.300,C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\UnitColetor.fmx=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.fmx</Transaction>
+    <Transaction>2022/03/25 20:45:05.000.300,C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\UnitColetor.pas=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/03/25 22:16:49.000.203,=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/03/25 22:20:11.000.101,C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Frames\Frame_RecipienteCard.fmx=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.fmx</Transaction>
+    <Transaction>2022/03/25 22:20:11.000.101,C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Frames\Frame_RecipienteCard.pas=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/03/25 23:30:51.000.153,=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/03/25 23:31:26.000.848,C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\UnitSplash.pas=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/03/25 23:31:26.000.848,C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\UnitSplash.fmx=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.fmx</Transaction>
+    <Transaction>2022/04/20 22:03:31.000.315,=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/04/20 22:05:32.000.046,C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\UnitRecipiente.fmx=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.fmx</Transaction>
+    <Transaction>2022/04/20 22:05:32.000.046,C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\UnitRecipiente.pas=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/04/20 23:33:25.000.635,=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/04/20 23:33:48.000.752,C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\UnitCarrinho.fmx=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.fmx</Transaction>
+    <Transaction>2022/04/20 23:33:48.000.752,C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\UnitCarrinho.pas=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/04/20 23:59:36.000.241,=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/04/21 00:01:03.000.792,C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Frames\Frame_RecipienteLista.pas=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/04/21 00:01:03.000.792,C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Frames\Frame_RecipienteLista.fmx=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.fmx</Transaction>
+    <Transaction>2022/04/21 10:59:12.000.781,=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/04/21 10:59:49.000.785,C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\UnitAgendamento.pas=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/04/21 10:59:49.000.785,C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\UnitAgendamento.fmx=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.fmx</Transaction>
+    <Transaction>2022/04/21 11:52:05.000.178,=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.pas</Transaction>
+    <Transaction>2022/04/21 11:53:05.000.518,C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.pas=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\UnitAgendamentoDetalhe.pas</Transaction>
+    <Transaction>2022/04/21 11:53:05.000.518,C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\Unit1.fmx=C:\Users\Daniela\Documents\Apostila\Delphi\Mobile\UnitAgendamentoDetalhe.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="" Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
